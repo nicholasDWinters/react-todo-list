@@ -1,0 +1,7 @@
+.NewTodoForm {
+    margin-top: 50px;
+}
+
+.NewTodoForm-label, .NewTodoForm-button, .NewTodoForm-input {
+    margin-left: 10px;
+}
