@@ -1,0 +1,7 @@
+.EditTodoForm {
+    margin-top: 10px;
+}
+
+.EditTodoForm-label, .EditTodoForm-button, .EditTodoForm-input {
+    margin-left: 10px;
+}
